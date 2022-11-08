@@ -1,0 +1,43 @@
+body {
+    background-color: antiquewhite;
+}
+header h1 {
+    color: red;
+    font-family: "Segoe Script", serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 45px;
+}
+.menu ul {
+    text-align: center;
+}
+.menu ul li {
+    display: inline;
+    list-style-type: none;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+.menu ul li a:hover{
+    text-decoration: none;
+    color: darkseagreen;
+}
+h2,h3 {
+    text-align: center;
+    font-size: 30px;
+    color: chocolate;
+}
+.icerik p {
+    text-align: center;
+}
+.liste ul {
+    text-align: center;
+    list-style-position: inside;
+}
+.aletler{
+    display: table;
+    text-align: center;
+    margin: 0 auto;
+}
+img{
+    padding: 10px;
+}
